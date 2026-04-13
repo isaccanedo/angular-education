@@ -1,6 +1,6 @@
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="240">
 
-#### *A list of helpful material to develop using Angular*
+### *A list of helpful material to develop using Angular*
 
 ##### Current Angular version:
 ![version](https://img.shields.io/npm/v/@angular/core.svg?maxAge=2592000)
